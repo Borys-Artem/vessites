@@ -1,0 +1,92 @@
+﻿body {
+    background-color: #d7edde;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.menu {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.hover-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 10px;
+}
+
+    .hover-link:hover {
+        color: #ff9900;
+    }
+.speaker1 {
+    color: red; 
+}
+
+.speaker2 {
+    color: plum; 
+}
+
+.speaker3 {
+    color: green; 
+}
+.speaker4 {
+    color:darkslategrey; 
+}
+
+.speaker5 {
+    color:darkslateblue;
+}
+
+.speaker6 {
+    color: goldenrod; 
+}
+.speaker7 {
+    color:sandybrown; 
+}
+
+
+/* Стилі для сторінки НОВИНИ */
+h1 {
+    color: #333;
+}
+
+p {
+    color: #333;
+}
+h1[style] {
+    color: darkslategrey;
+}
+p {
+    text-align: center; /* Вирівнювання тексту по обидва боки */
+    font-size: 18px; /* Змінити розмір тексту на більший, наприклад, 16px */
+    font-weight: bold; /* Зробити текст товстим */
+    line-height: 1.5; /* Встановити міжрядковий інтервал для кращого виділення тексту */
+    font-style: italic;
+}
+/* Стилі для сторінки ГУМОР */
+h1[style] {
+    color: mediumpurple;
+}
+
+/* Стилі для сторінки ГАЛЕРЕЯ */
+
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+
+h1[style] {
+    color: darkslategrey;
+}
+
+/* Стилі для сторінки КОНТАКТИ */
+p {
+
+    color: #333;
+}
+h1[style] {
+    color: darkslategrey;
+}
